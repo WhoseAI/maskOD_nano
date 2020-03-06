@@ -1,0 +1,6 @@
+# You can get your <fullpath> by `pwd` command on terminal
+classes= 2
+train = <fullPath>/train.txt
+valid = <fullPath>/test.txt
+backup= <fullPath>/backup
+names = <fullPath>/mask.names
