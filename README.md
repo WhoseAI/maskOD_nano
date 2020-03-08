@@ -1,11 +1,7 @@
 # maskOD_nano
 Use 600 pcs of Masked and No_Masked people, trained and inferenced on Jetson Nano with Yolov3-Tiny
 
-Here is the short demo,
-![avatar](maskDemo.gif)
-
-Full demo is here
-https://www.youtube.com/watch?v=ShxBRGUBuDI&t=176s
+Click the GIF below can watch full demo 
 [![IMAGE ALT TEXT](maskDemo.gif)](https://www.youtube.com/watch?v=ShxBRGUBuDI&t=176s "CameraMaster")
 
 Tasks prepared:
