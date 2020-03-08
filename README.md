@@ -1,10 +1,16 @@
 # maskOD_nano
 Use 600 pcs of Masked and No_Masked people, trained and inferenced on Jetson Nano with Yolov3-Tiny
 
+Here is the short demo,
+![avatar](maskDemo.gif)
+
+Full demo is here
+https://www.youtube.com/watch?v=ShxBRGUBuDI&t=176s
+[![IMAGE ALT TEXT](maskDemo.gif)](https://www.youtube.com/watch?v=ShxBRGUBuDI&t=176s "CameraMaster")
+
 Tasks prepared:
 1. Install Darknet
 2. Download darknet53.conv.74 && Yolov3-tiny.cfg
-![avatar](maskDemo.gif)
 Steps
 1. git clone this <repo> into your Jetson device, can be inside or outside <darknet>
 2. Uncompress dataset.zip to <dataset> folder, should contain 1,230 items
