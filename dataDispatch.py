@@ -45,7 +45,7 @@ def convert_annotation(imageFileName):
         bb = convert((w,h), b)
         out_file.write(str(cls_id) + " " + " ".join([str(a) for a in bb]) + '\n')
 
-#################### Code belows were modified by GPUS
+##################### Code belows were modified by GPUS
 trainListFile = open(trainList, 'w')
 testListFile  = open(testList, 'w')
 

@@ -6,4 +6,4 @@ cd $DARKNET
 $PRJ_PATH/mask.data \
 $PRJ_PATH/yolov3-tiny.cfg \
 $PRJ_PATH/backup/yolov3-tiny.backup \
-$PRJ_PATH/MaskTestDemo.mp4 -thresh .1
+-c 1 -thresh .4

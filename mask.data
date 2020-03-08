@@ -1,4 +1,4 @@
-# You can get your <fullpath> by `pwd` command on terminal
+## You can get your <fullpath> by `pwd` command on terminal
 classes= 2
 train = <fullPath>/train.txt
 valid = <fullPath>/test.txt
