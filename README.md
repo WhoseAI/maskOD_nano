@@ -4,7 +4,7 @@ Use 600 pcs of Masked and No_Masked people, trained and inferenced on Jetson Nan
 Tasks prepared:
 1. Install Darknet
 2. Download darknet53.conv.74 && Yolov3-tiny.cfg
-
+![avatar](maskDemo.gif)
 Steps
 1. git clone this <repo> into your Jetson device, can be inside or outside <darknet>
 2. Uncompress dataset.zip to <dataset> folder, should contain 1,230 items
